@@ -30,19 +30,19 @@ app.factory('hwkFactory', function () {
         },
         {
             assignment: 'Workshop 3',
-            url: 'http://github.com/adolfoartaza/flashcards-day1',
+            url: 'Not Available',
             status: 'incomplete',
             display: false
         },
         {
             assignment: 'Workshop 4',
-            url: 'http://github.com/adolfoartaza/flashcards-day1',
+            url: 'Not Available',
             status: 'incomplete',
             display: false
         },
         {
             assignment: 'Final Assignment',
-            url: 'http://github.com/adolfoartaza/flashcards-day1',
+            url: 'https://github.com/adolfoartaza/AngularJSFinal',
             status: 'completed',
             display: false
         }
